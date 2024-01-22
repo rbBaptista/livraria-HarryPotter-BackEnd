@@ -1,0 +1,17 @@
+[
+    {
+        "id": 5,
+        "nome": "Harryrrr Potter e a Ordem da Fenix",
+        "src": "http://localhost:8000/img/livro5.png"
+    },
+    {
+        "id": 6,
+        "nome": "Harry Potter e o Enigma do Príncipe",
+        "src": "http://localhost:8000/img/livro6.png"
+    },
+    {
+        "id": 7,
+        "nome": "Harry Potter e as Relíquias da Morte",
+        "src": "http://localhost:8000/img/livro7.png"
+    }
+]
